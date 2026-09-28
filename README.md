@@ -10,8 +10,7 @@
 
 ## About
 
-Бесконечная игра, в которой нужно заработать как можно больше очков. Нужно уворачиваться, убивать врагов из двух разных оружии или натравить их друг другу чтобы убить их. Так же необходимо убить босса, собрав предметы из лаки блока, из которого может выпасть различные баффы и дебаффы. Для первой игры разработчика — игра вышла интересной с довольно большим количеством механик, для обычного игрока — может надоесть после 5 минут игры.
-
+An endless game where you have to score as many points as possible. You need to dodge, kill enemies with two different weapons, or pit them against each other to kill them. You also need to defeat the boss by collecting items from the Lucky Block, which can drop various buffs and debuffs. For the developer’s debut game, it’s an interesting title with quite a few mechanics; for the average player, though, it might get boring after 5 minutes of play.
 
 ## Distribute
 
