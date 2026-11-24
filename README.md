@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/kS7Nyyz/Space-Shooter-Icon.png" alt="Project Logo" width="200">
+      <img src="docs/screenshots/01.png" alt="Project Logo" width="200">
 </p>
 
 <p align="center">
@@ -19,10 +19,10 @@ An endless game where you have to score as many points as possible. You need to 
 ## Screenshots
 
 <p>
-      <img src="https://i.ibb.co/VW6KdHR/5.jpg" alt="Screenshot 1" width="756">
-      <img src="https://i.ibb.co/Q62VRqV/4.jpg" alt="Screenshot 2" width="756">
-      <img src="https://i.ibb.co/sP1nDch/3.jpg" alt="Screenshot 3" width="756">
-      <img src="https://i.ibb.co/BNjCHhy/2.jpg" alt="Screenshot 4" width="756">
-      <img src="https://i.ibb.co/ZzKJc4x/1.jpg" alt="Screenshot 5" width="756">
-      <img src="https://i.ibb.co/w4MLFH3/Screenshot-1.png" alt="Screenshot 6" width="756">
+      <img src="docs/screenshots/02.jpg" alt="Screenshot 1" width="756">
+      <img src="docs/screenshots/03.jpg" alt="Screenshot 2" width="756">
+      <img src="docs/screenshots/04.jpg" alt="Screenshot 3" width="756">
+      <img src="docs/screenshots/05.jpg" alt="Screenshot 4" width="756">
+      <img src="docs/screenshots/06.jpg" alt="Screenshot 5" width="756">
+      <img src="docs/screenshots/07.png" alt="Screenshot 6" width="756">
 </p>
